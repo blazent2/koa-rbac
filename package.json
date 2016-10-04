@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "error-factory": "0.1.6",
-    "rbac-a": "^0.2.5"
+    "rbac-a": "azhang/rbac-a#refactor"
   },
   "devDependencies": {
     "istanbul": "^0.4.3",
